@@ -1,0 +1,17 @@
+name: Good First Issue
+description: Beginner-friendly task for new contributors
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in contributing to Haitians in Tech!
+
+  - type: input
+    attributes:
+      label: What would you like to work on?
+      placeholder: Brief description
+
+  - type: textarea
+    attributes:
+      label: Questions or blockers
+      placeholder: Anything you want to clarify before starting
